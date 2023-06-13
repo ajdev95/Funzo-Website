@@ -1,10 +1,6 @@
 > Invite Funzo today! [Click here](https://discord.com/oauth2/authorize?client_id=985606622908911686&permissions=537250816&scope=bot)
 # Funzo Website Clone
 
-# 🆘 Help 🆘
-
-**Support:** [discord.gg/black-h](https://discord.gg/black-h)
-
 # Installation
 
 <details>
